@@ -6,10 +6,25 @@
 
 <div style="display: flex; justify-content: center;">
   <div style="flex: 1; margin-right: 10px;">
-     <img src="app_asset/1.png" alt="Ana Ekran" width="300" />
+    <img src="app_asset/1.png" alt="Ana Ekran" width="300" />
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="app_asset/1-2.png" alt="Ana Ekran" width="300" />
+  </div>
+    <div style="flex: 1; margin-right: 10px;">
+    <img src="app_asset/1.png" alt="Ana Ekran" width="300" />
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="app_asset/1-2.png" alt="Ana Ekran" width="300" />
+  </div>
+    <div style="flex: 1; margin-right: 10px;">
+    <img src="app_asset/1.png" alt="Ana Ekran" width="300" />
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
     <img src="app_asset/1-2.png" alt="Ana Ekran" width="300" />
   </div>
 </div>
+
 
 
 This project is a starting point for a Flutter application.
