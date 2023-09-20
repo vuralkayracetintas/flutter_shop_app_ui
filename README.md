@@ -5,6 +5,10 @@
 ## Screenshots
 
 <div style="display: flex; justify-content: center;">
+ <div style="flex: 1; margin-left: 10px;">
+     <img src="app_asset/shop_app.gif" alt="Ana Ekran" width="300" />
+     
+  </div>
   <div style="flex: 1; margin-left: 10px;">
      <img src="app_asset/1.png" alt="Ana Ekran" width="300" />
     <img src="app_asset/1-2.png" alt="Ana Ekran" width="300" />
@@ -16,7 +20,6 @@
    <div style="flex: 1; margin-left: 10px;">
      <img src="app_asset/3.png" alt="Ana Ekran" width="300" />
      <img src="app_asset/3-1.png" alt="Ana Ekran" width="300" />
-    
   </div>
 </div>
 
