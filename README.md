@@ -1,12 +1,12 @@
 # Flutter Shop App UI
 
-
+ <img src="app_asset/shop_app.gif" alt="Ana Ekran" width="300" />
 
 ## Screenshots
 
 <div style="display: flex; justify-content: center;">
  <div style="flex: 1; margin-left: 10px;">
-     <img src="app_asset/shop_app.gif" alt="Ana Ekran" width="300" />
+    
      
   </div>
   <div style="flex: 1; margin-left: 10px;">
