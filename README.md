@@ -1,16 +1,30 @@
-# flutter_shop_app
+# Flutter Shop App UI
 
-A new Flutter project.
 
-## Getting Started
+
+## Screenshots
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; margin-right: 10px;">
+     <img src="app_assets/1.png" alt="Ana Ekran" width="300" />
+    <img src="app_assets/1-2.png" alt="Ana Ekran" width="300" />
+  </div>
+</div>
+
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Linkedin](https://www.linkedin.com/in/vural-kayra-cetintas/)
+- [Github](https://github.com/vuralkayracetintas)
+- [Instagram](https://www.instagram.com/vuralkayrac/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Packages
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons): 
+- [google_nav_bar](https://pub.dev/packages/google_nav_bar):
+- [kartal](https://pub.dev/packages/kartal):
+- [font_awesome_flutter](https://pub.dev/packages/font_awesome_flutter): 
+- [table_calendar](https://pub.dev/packages/table_calendar): 
